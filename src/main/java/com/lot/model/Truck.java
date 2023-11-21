@@ -1,4 +1,4 @@
 package com.lot.model;
 
-public class Truck {
+public class Truck { //extends Vehicle
 }
