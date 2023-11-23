@@ -19,7 +19,7 @@ public class Vehicle {
 
     private String make;
 
-    @ManyToOne
+    @ManyToMany
     private Owner owner;
 
 }
